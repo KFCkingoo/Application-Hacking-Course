@@ -1,0 +1,8 @@
+# h0 Käännä binääriksi
+
+## Tehty pieni ohjelma:
+
+print('hello)
+
+käännetty binääriksi 01110000 01110010 01101001 01101110 01110100 00101000 00100111 01101000 01100101 01101100 01101100 01101111 00100111 00101001 
+hyödyntäen konverttia https://www.rapidtables.com/convert/number/ascii-to-binary.html
