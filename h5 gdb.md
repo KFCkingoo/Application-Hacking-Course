@@ -86,3 +86,10 @@ Jätetty myöhemmin hoidettavaksi.
 GNU Debuggerilla saatiin passtr salasana `sala-hakkeri-321`, siitä tulostui lippu `FLAG{Tero-d75ee66af0a68663f15539ec0f46e3b1}`.
 
 Ei lähdekoodia passtr2o ohjelmalle, jätetty myöhemmin hoidettavaksi miten sen saa näkyville gdb.
+
+---
+### Lähteet
+Copilot ChatGPT5.1 hyödynnetty tehtävässä main.cpp. https://copilot.microsoft.com/
+
+Moodle GDB materiaali.
+
