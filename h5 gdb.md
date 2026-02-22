@@ -43,6 +43,8 @@ Element 4: 5
 Element 5: 0
 ```
 
+Katsottiin GNU Debuggerilla kun ohjelman suorituksessa se toisti listauksen for-loop ohjelmassa läpi.
+
 <img width="666" height="247" alt="kuva" src="https://github.com/user-attachments/assets/a41a625f-af7a-4b8b-a93e-8cae8b648ad1" />
 
 >_Lähdekoodin kommentissa luki `<=` puskuriylivuodon ja väärän kokon._
@@ -67,5 +69,20 @@ Element 4: 4
 Element 5: 5
 ```
 
+---
+### Lab1
+Ohjelma tulosti
+```
+Khoor/#zruog1
+Segmentation fault
+```
 
+Kun ajettiin gdb niin segmentaatio virhe ilmestyi riville 7. Laitettiin `break 7` ja katsottiin prosessi. Ohjelmaan tuli segmentaatiovirhe kun ohjelma hakee NULL messagen.
 
+Jätetty myöhemmin hoidettavaksi.
+
+---
+### Lab2
+GNU Debuggerilla saatiin passtr salasana `sala-hakkeri-321`, siitä tulostui lippu `FLAG{Tero-d75ee66af0a68663f15539ec0f46e3b1}`.
+
+Ei lähdekoodia passtr2o ohjelmalle, jätetty myöhemmin hoidettavaksi miten sen saa näkyville gdb.
