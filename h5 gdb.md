@@ -85,7 +85,7 @@ Jätetty myöhemmin hoidettavaksi.
 ### Lab2
 GNU Debuggerilla saatiin passtr salasana `sala-hakkeri-321`, siitä tulostui lippu `FLAG{Tero-d75ee66af0a68663f15539ec0f46e3b1}`.
 
-Ei lähdekoodia passtr2o ohjelmalle, jätetty myöhemmin hoidettavaksi miten sen saa näkyville gdb.
+Ei lähdekoodia passtr2o ohjelmalle ja näyttää tyhjää gdb:ssä. Jätetty myöhemmin hoidettavaksi miten ohjelman saa näkyville gdb.
 
 ---
 ### Lähteet
